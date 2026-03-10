@@ -147,5 +147,5 @@ See `requirements.txt`. Key dependencies:
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgements
-- CHB-MIT Scalp EEG Database: Physionet / Boston Children's Hospital
+- CHB-MIT Scalp EEG Database: Physionet / Boston Children's Hospital (https://physionet.org/content/chbmit/1.0.0/)
 - Intel Loihi 2 energy specifications
