@@ -9,8 +9,8 @@ with open("requirements.txt") as f:
 setup(
     name="fsnn_cbg",
     version="1.0.0",
-    author="[Author Name]",
-    author_email="author@university.edu",
+    author="[Waqar Hussain]",
+    author_email="waqar.hussain@uokajk.edu.pk",
     description=(
         "Fuzzy Spiking Neural Networks with Causal Brain Graph "
         "Modelling for Epileptic Seizure Prediction"
