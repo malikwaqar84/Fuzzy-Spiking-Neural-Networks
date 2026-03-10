@@ -94,7 +94,7 @@ FSNN_CBG/
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/FSNN_CBG.git
+git clone https://github.com/malikwaqar84/Fuzzy-Spiking-Neural-Networks
 cd FSNN_CBG
 pip install -e .
 ```
